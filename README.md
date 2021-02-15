@@ -1,1 +1,3 @@
 # UK DRI Care Research and Technology Centre 
+
+The UK DRI Care Research & Technology centre, based at Imperial with close collaboration with University of Surrey and Surrey and Borders Partnership NHS Trust, brings together a diverse team of doctors, engineers and scientists who together can harness recent advances in artificial intelligence, engineering, robotics and sleep science to create new technologies that will deliver the highest quality dementia care in the home. Researchers are investigating new ways to keep people independent in their homes, improve their general health and sleep, and reduce confusion and agitation. Their work is guided by people with dementia and their caregivers, focusing on issues that cause the most problems.
